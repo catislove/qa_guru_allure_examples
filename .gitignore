@@ -8,6 +8,11 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.idea
+.env
+.pytest_cache
+.allure-results
+.tests/allure-results
 build/
 develop-eggs/
 dist/
